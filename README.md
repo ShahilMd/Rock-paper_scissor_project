@@ -94,7 +94,7 @@ Try out the game here: [Live Demo](https://shahilmd.github.io/Rock-paper_scissor
 ## 👨‍💻 Author
 Your Name
 - GitHub: [@ShahilMd](https://github.com/ShahilMd)
-- LinkedIn: [Your Name](www.linkedin.com/in/web-dev-md-shahil)
+- LinkedIn: [Md Shahil](https://linkedin.com/in/web-dev-md-shahil)
 
 
 ## 🙏 Acknowledgments
