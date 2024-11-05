@@ -92,7 +92,7 @@ Try out the game here: [Live Demo](https://shahilmd.github.io/Rock-paper_scissor
 5. Open a Pull Request
 
 ## 👨‍💻 Author
-Your Name
+Md Shahil
 - GitHub: [@ShahilMd](https://github.com/ShahilMd)
 - LinkedIn: [Md Shahil](https://linkedin.com/in/web-dev-md-shahil)
 
