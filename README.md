@@ -28,7 +28,7 @@ Try out the game here: [Live Demo](https://shahilmd.github.io/Rock-paper_scissor
 - Clean and modern user interface
 
 ## 📸 Screenshots
-![Game Interface](screenshots/game-interface.png)
+![Game Interface](gameScreenShot/game-interface.png)
 ![Game Results](screenshots/game-results.png)
 
 ## 🛠️ Technologies Used
