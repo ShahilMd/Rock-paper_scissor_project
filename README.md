@@ -23,13 +23,12 @@ Try out the game here: [Live Demo](https://shahilmd.github.io/Rock-paper_scissor
 - Best-of-five game series format
 - Responsive design for all devices
 - Animated hand gestures
-- Sound effects for game actions
 - Local storage to save game history
 - Clean and modern user interface
 
 ## 📸 Screenshots
 ![Game Interface](gameScreenShot/game-interface.png)
-![Game Results](screenshots/game-results.png)
+![Game Results](gameScreenShot/game-result.png)
 
 ## 🛠️ Technologies Used
 - HTML5
@@ -94,13 +93,10 @@ Try out the game here: [Live Demo](https://shahilmd.github.io/Rock-paper_scissor
 
 ## 👨‍💻 Author
 Your Name
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@ShahilMd](https://github.com/ShahilMd)
+- LinkedIn: [Your Name](www.linkedin.com/in/web-dev-md-shahil)
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## 🙏 Acknowledgments
 - Inspiration from classic arcade games
 - Icons provided by [Font Awesome](https://fontawesome.com)
-- Sound effects from [SoundBible](https://soundbible.com)
